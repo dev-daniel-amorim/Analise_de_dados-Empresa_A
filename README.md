@@ -13,7 +13,7 @@ O objetivo dele é entender:
 
 ## Banco de dados
 
-- Base de Dados a ser usada: salarios.sqlite
+- Base de Dados a ser usada: salarios.sqlite (Está compartilhada junto com o projeto)
 
 ## Solução
 
