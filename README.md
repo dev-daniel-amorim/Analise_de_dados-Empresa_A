@@ -18,3 +18,7 @@ O objetivo dele é entender:
 ## Solução
 
 - <a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Empresa_A/blob/main/Python%20e%20SQL%20-%20Exerc%C3%ADcio%20An%C3%A1lise%20de%20Dados.ipynb'> Clique aqui para ver o código fonte da solução"</a>
+
+<br>
+<hr>
+[<- Voltar](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
